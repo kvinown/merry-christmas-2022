@@ -1,3 +1,5 @@
+// 2272007 - Kevin Owen
+
 /*=============== SHOW SCROLL UP ===============*/ 
 const scrollUp = () =>{
 	const scrollUp = document.getElementById('scroll-up')
